@@ -4,6 +4,8 @@
 
 ---
 
+JOIN OUR DISCOR: https://discord.gg/hMMMDpXHJm
+
 ## :sparkles: Features
 - :white_check_mark: **OX Menu** integration – clean and user-friendly
 - :white_check_mark: **CD_DISPATCH** integrated
