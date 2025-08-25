@@ -13,12 +13,6 @@ shared_scripts {
     'config.lua'
 }
 
-escrow_ignore {
-    "locales.lua",
-    "config.lua",
-    "fxmanifest.lua"
-}
-
 client_script 'client.lua'
 server_script 'server.lua'
 
